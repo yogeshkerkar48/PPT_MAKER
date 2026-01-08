@@ -1,4 +1,4 @@
-# 🎬 Cinematic PPT Generator (v4.2)
+# 🎬 PPT Generator (v4.2)
 
 A powerful, AI-driven command-line tool designed to transform raw text, PDFs, or DOCX files into high-impact, professional PowerPoint presentations automatically.
 
